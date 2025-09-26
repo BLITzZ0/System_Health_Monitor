@@ -1,0 +1,4 @@
+psutil
+schedule
+requests
+python-dotenv
