@@ -1,0 +1,5 @@
+BOT_TOKEN="your BOT_TOKEN"
+ROOM_ID= "your ROOM_ID"
+CPU_THRESHOLD= "suggested 80"
+MEMORY_THRESHOLD="suggested 80"
+DISK_THRESHOLD="suggested 80"
