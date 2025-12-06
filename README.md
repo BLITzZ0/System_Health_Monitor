@@ -6,7 +6,7 @@ A Python-based automation project that monitors system health metrics (CPU, Memo
 
 ## 📌 Features
 
-* Monitors:
+* Monitor:
 
   * CPU usage
   * Memory usage
@@ -142,4 +142,5 @@ Contributions are welcome. Please open an issue or submit a pull request.
 ## 📜 License
 
 This project is licensed under the MIT License.
+
 
