@@ -21,4 +21,4 @@ def send_webex_alert(bot_token, room_id, message):
     print("Status:", response.status_code)
     print(response.text)
 
-send_webex_alert(BOT_TOKEN, ROOM_ID, "✅ System Health Monitor Test Message")
+send_webex_alert(BOT_TOKEN, ROOM_ID, "System Health Monitor Test Message")
